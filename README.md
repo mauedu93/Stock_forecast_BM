@@ -1,2 +1,2 @@
 # Stock_forecast_BM
- Forecast of  price of 2 stocks in the next 30 days
+ In this notebook, we will forecast the price of Intel Corporation over a period of 60 days. We will use a Monte Carlo simulation to generate different random walk predictions of Intel's price. The data will be split into training data that will contain approximately ten years of daily price history and a test sample of the last 60-day prices of the stock. Then, we will compare the results of the Monte Carlo simulation and the test dataset to evaluate the accuracy and draw conclusions.
