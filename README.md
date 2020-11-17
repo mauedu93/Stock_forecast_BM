@@ -3,3 +3,5 @@
  
  # Disclaimer
 The content of this notebook is intended to be used and must be used for informational purposes only. It is very important to do your own analysis before making any investment based on your own personal circumstances. You should take independent financial advice from a professional in connection with, or independently research and verify, any information that you find on this notebook and wish to rely upon, whether for the purposes of making an investment decision or otherwise.
+
+Past performance is not a guarantee of future return, nor is it necessarily indicative of future performance. Keep in mind investing involves risk. The value of your investment will fluctuate over time and you may gain or lose money. 
